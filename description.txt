@@ -1,0 +1,131 @@
+ "content": [
+                	{
+                    "content": [
+                        {
+                            "text": "Dependency Name : "+dependency_name,
+                            "type": "text"
+                        }
+                    ],
+                    "type": "paragraph"
+                	},
+                   {
+                    "content": [
+                        {
+                            "text": "Dependency Path  : "+dependency_path,
+                            "type": "text"
+                        }
+                    ],
+                    "type": "paragraph"
+               	 	},
+                 	{
+                    "content": [
+                        {
+                            "text": "Description : "+description,
+                            "type": "text"
+                        }
+                    ],
+                    "type": "paragraph"
+                	},
+                	{
+                    "content": [
+                        {
+                            "text": "License : "+license,
+                            "type": "text"
+                        }
+                    ],
+                    "type": "paragraph"
+                	},
+                	{
+                    "content": [
+                        {
+                            "text": "Identifiers : "+identifiers,
+                            "type": "text"
+                        }
+                    ],
+                    "type": "paragraph"
+                	},
+                	{
+                    "content": [
+                        {
+                            "text": "CWE : "+cwe,
+                            "type": "text"
+                        }
+                    ],
+                    "type": "paragraph"
+                	},
+                	{
+                    "content": [
+                        {
+                            "text": "Vulnerability : "+vulnerability,
+                            "type": "text"
+                        }
+                    ],
+                    "type": "paragraph"
+                	},
+                	{
+                    "content": [
+                        {
+                            "text": "CVSSV2_severity : "+cvssv2_severity,
+                            "type": "text"
+                        }
+                    ],
+                    "type": "paragraph"
+                	},
+                	{
+                    "content": [
+                        {
+                            "text": "cvssv2_score : "+str(cvssv2_score),
+                            "type": "text"
+                        }
+                    ],
+                    "type": "paragraph"
+                	},
+                	{
+                    "content": [
+                        {
+                            "text": "cvssv3_base_severity : "+cvssv3_base_severity,
+                            "type": "text"
+                        }
+                    ],
+                    "type": "paragraph"
+                	},
+                	{
+                    "content": [
+                        {
+                            "text": "cvssv3_base_score : "+str(cvssv3_base_score),
+                            "type": "text"
+                        }
+                    ],
+                    "type": "paragraph"
+                	},
+                	{
+                    "content": [
+                        {
+                            "text": "cpe_confidence : "+cpe_confidence,
+                            "type": "text"
+                        }
+                    ],
+                    "type": "paragraph"
+                	},
+                	{
+                    "content": [
+                        {
+                            "text": "evidence_count: "+str(evidence_count),
+                            "type": "text"
+                        }
+                    ],
+                    "type": "paragraph"
+                	}
+                	],
+                	"type": "doc",
+            		"version": 1
+            		},
+					"issuetype":{
+					"name":"Task"
+					},
+					"components": [
+      					{
+        					"name": "cig-reqmgr"
+      					}
+    					],
+					

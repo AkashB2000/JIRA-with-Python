@@ -1,0 +1,804 @@
+{
+    "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations,customfield_11151.requestTypePractice,customfield_11313.properties",
+    "fields": {
+        "aggregateprogress": {
+            "progress": 0,
+            "total": 0
+        },
+        "aggregatetimeestimate": null,
+        "aggregatetimeoriginalestimate": null,
+        "aggregatetimespent": null,
+        "assignee": {
+            "accountId": "63bba8ca0913ada386aa27d2",
+            "accountType": "atlassian",
+            "active": true,
+            "avatarUrls": {
+                "16x16": "https://secure.gravatar.com/avatar/910a78a0ffe0594a3fbe8b25b2402b71?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FA-1.png",
+                "24x24": "https://secure.gravatar.com/avatar/910a78a0ffe0594a3fbe8b25b2402b71?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FA-1.png",
+                "32x32": "https://secure.gravatar.com/avatar/910a78a0ffe0594a3fbe8b25b2402b71?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FA-1.png",
+                "48x48": "https://secure.gravatar.com/avatar/910a78a0ffe0594a3fbe8b25b2402b71?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FA-1.png"
+            },
+            "displayName": "Akash.Bhargav",
+            "emailAddress": "akash.bhargav@ibm.com",
+            "self": "https://cloudidentity.atlassian.net/rest/api/3/user?accountId=63bba8ca0913ada386aa27d2",
+            "timeZone": "America/Denver"
+        },
+        "attachment": [],
+        "comment": {
+            "comments": [],
+            "maxResults": 0,
+            "self": "https://cloudidentity.atlassian.net/rest/api/3/issue/279190/comment",
+            "startAt": 0,
+            "total": 0
+        },
+        "components": [],
+        "created": "2023-02-02T06:36:56.906-0700",
+        "creator": {
+            "accountId": "63bba8ca0913ada386aa27d2",
+            "accountType": "atlassian",
+            "active": true,
+            "avatarUrls": {
+                "16x16": "https://secure.gravatar.com/avatar/910a78a0ffe0594a3fbe8b25b2402b71?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FA-1.png",
+                "24x24": "https://secure.gravatar.com/avatar/910a78a0ffe0594a3fbe8b25b2402b71?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FA-1.png",
+                "32x32": "https://secure.gravatar.com/avatar/910a78a0ffe0594a3fbe8b25b2402b71?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FA-1.png",
+                "48x48": "https://secure.gravatar.com/avatar/910a78a0ffe0594a3fbe8b25b2402b71?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FA-1.png"
+            },
+            "displayName": "Akash.Bhargav",
+            "emailAddress": "akash.bhargav@ibm.com",
+            "self": "https://cloudidentity.atlassian.net/rest/api/3/user?accountId=63bba8ca0913ada386aa27d2",
+            "timeZone": "America/Denver"
+        },
+        "customfield_10000": "{}",
+        "customfield_10001": null,
+        "customfield_10005": null,
+        "customfield_10101": null,
+        "customfield_10102": null,
+        "customfield_10103": null,
+        "customfield_10114": {
+            "hasEpicLinkFieldDependency": false,
+            "nonEditableReason": {
+                "message": "The Parent Link is only available to Jira Premium users.",
+                "reason": "PLUGIN_LICENSE_ERROR"
+            },
+            "showField": false
+        },
+        "customfield_10115": null,
+        "customfield_10116": "0|i180sb:",
+        "customfield_10200": null,
+        "customfield_10201": null,
+        "customfield_10202": null,
+        "customfield_10204": null,
+        "customfield_10205": null,
+        "customfield_10206": null,
+        "customfield_10300": null,
+        "customfield_10301": null,
+        "customfield_10302": null,
+        "customfield_10303": null,
+        "customfield_10304": null,
+        "customfield_10305": null,
+        "customfield_10306": null,
+        "customfield_10307": null,
+        "customfield_10308": null,
+        "customfield_10309": null,
+        "customfield_10401": null,
+        "customfield_10402": null,
+        "customfield_10500": null,
+        "customfield_10600": null,
+        "customfield_10700": null,
+        "customfield_10701": null,
+        "customfield_10702": null,
+        "customfield_10703": null,
+        "customfield_10704": null,
+        "customfield_10705": null,
+        "customfield_10706": null,
+        "customfield_10708": null,
+        "customfield_10709": null,
+        "customfield_10710": null,
+        "customfield_10711": null,
+        "customfield_10801": {
+            "id": "10403",
+            "self": "https://cloudidentity.atlassian.net/rest/api/3/customFieldOption/10403",
+            "value": "Non-Production"
+        },
+        "customfield_10802": {
+            "id": "10905",
+            "self": "https://cloudidentity.atlassian.net/rest/api/3/customFieldOption/10905",
+            "value": "N/A"
+        },
+        "customfield_10803": {
+            "id": "10406",
+            "self": "https://cloudidentity.atlassian.net/rest/api/3/customFieldOption/10406",
+            "value": "TFIM"
+        },
+        "customfield_10900": null,
+        "customfield_11000": null,
+        "customfield_11100": null,
+        "customfield_11101": null,
+        "customfield_11102": null,
+        "customfield_11103": null,
+        "customfield_11104": null,
+        "customfield_11105": null,
+        "customfield_11106": null,
+        "customfield_11107": null,
+        "customfield_11108": null,
+        "customfield_11109": null,
+        "customfield_11110": null,
+        "customfield_11111": null,
+        "customfield_11112": null,
+        "customfield_11113": null,
+        "customfield_11114": null,
+        "customfield_11115": null,
+        "customfield_11116": null,
+        "customfield_11117": null,
+        "customfield_11118": null,
+        "customfield_11119": null,
+        "customfield_11120": null,
+        "customfield_11122": null,
+        "customfield_11124": {
+            "id": "10933",
+            "self": "https://cloudidentity.atlassian.net/rest/api/3/customFieldOption/10933",
+            "value": "Service Update"
+        },
+        "customfield_11126": {
+            "content": [
+                {
+                    "content": [
+                        {
+                            "text": "Choose/update:",
+                            "type": "text"
+                        },
+                        {
+                            "type": "hardBreak"
+                        },
+                        {
+                            "text": "---------------\r",
+                            "type": "text"
+                        }
+                    ],
+                    "type": "paragraph"
+                },
+                {
+                    "content": [
+                        {
+                            "content": [
+                                {
+                                    "content": [
+                                        {
+                                            "text": "No major impact. In-flight transactions will fail.",
+                                            "type": "text"
+                                        }
+                                    ],
+                                    "type": "paragraph"
+                                }
+                            ],
+                            "type": "listItem"
+                        },
+                        {
+                            "content": [
+                                {
+                                    "content": [
+                                        {
+                                            "text": "No impact.",
+                                            "type": "text"
+                                        }
+                                    ],
+                                    "type": "paragraph"
+                                }
+                            ],
+                            "type": "listItem"
+                        },
+                        {
+                            "content": [
+                                {
+                                    "content": [
+                                        {
+                                            "text": "Training for Ops is required",
+                                            "type": "text"
+                                        }
+                                    ],
+                                    "type": "paragraph"
+                                }
+                            ],
+                            "type": "listItem"
+                        },
+                        {
+                            "content": [
+                                {
+                                    "content": [
+                                        {
+                                            "text": "Documentation update required",
+                                            "type": "text"
+                                        }
+                                    ],
+                                    "type": "paragraph"
+                                }
+                            ],
+                            "type": "listItem"
+                        },
+                        {
+                            "content": [
+                                {
+                                    "content": [
+                                        {
+                                            "text": "Failover required",
+                                            "type": "text"
+                                        }
+                                    ],
+                                    "type": "paragraph"
+                                }
+                            ],
+                            "type": "listItem"
+                        },
+                        {
+                            "content": [
+                                {
+                                    "content": [
+                                        {
+                                            "text": "Other:",
+                                            "type": "text"
+                                        }
+                                    ],
+                                    "type": "paragraph"
+                                }
+                            ],
+                            "type": "listItem"
+                        }
+                    ],
+                    "type": "bulletList"
+                }
+            ],
+            "type": "doc",
+            "version": 1
+        },
+        "customfield_11128": {
+            "id": "10943",
+            "self": "https://cloudidentity.atlassian.net/rest/api/3/customFieldOption/10943",
+            "value": "Medium"
+        },
+        "customfield_11129": null,
+        "customfield_11130": null,
+        "customfield_11131": null,
+        "customfield_11132": null,
+        "customfield_11133": null,
+        "customfield_11134": null,
+        "customfield_11135": null,
+        "customfield_11136": null,
+        "customfield_11137": null,
+        "customfield_11138": null,
+        "customfield_11139": {
+            "id": "10948",
+            "self": "https://cloudidentity.atlassian.net/rest/api/3/customFieldOption/10948",
+            "value": "SRE"
+        },
+        "customfield_11140": null,
+        "customfield_11141": null,
+        "customfield_11142": null,
+        "customfield_11143": "2023-02-18",
+        "customfield_11145": null,
+        "customfield_11146": null,
+        "customfield_11147": null,
+        "customfield_11148": null,
+        "customfield_11149": null,
+        "customfield_11150": null,
+        "customfield_11151": null,
+        "customfield_11152": [],
+        "customfield_11154": null,
+        "customfield_11162": null,
+        "customfield_11163": null,
+        "customfield_11165": null,
+        "customfield_11175": null,
+        "customfield_11176": null,
+        "customfield_11177": null,
+        "customfield_11178": null,
+        "customfield_11179": null,
+        "customfield_11180": null,
+        "customfield_11181": null,
+        "customfield_11182": null,
+        "customfield_11183": null,
+        "customfield_11184": null,
+        "customfield_11185": null,
+        "customfield_11186": null,
+        "customfield_11187": null,
+        "customfield_11188": null,
+        "customfield_11189": null,
+        "customfield_11190": null,
+        "customfield_11191": null,
+        "customfield_11192": null,
+        "customfield_11193": null,
+        "customfield_11194": null,
+        "customfield_11195": null,
+        "customfield_11196": {
+            "id": "11033",
+            "self": "https://cloudidentity.atlassian.net/rest/api/3/customFieldOption/11033",
+            "value": "L3"
+        },
+        "customfield_11197": null,
+        "customfield_11200": null,
+        "customfield_11201": null,
+        "customfield_11202": null,
+        "customfield_11205": null,
+        "customfield_11206": null,
+        "customfield_11207": {
+            "id": "11050",
+            "self": "https://cloudidentity.atlassian.net/rest/api/3/customFieldOption/11050",
+            "value": "Under Review"
+        },
+        "customfield_11208": null,
+        "customfield_11226": null,
+        "customfield_11229": null,
+        "customfield_11231": null,
+        "customfield_11232": null,
+        "customfield_11244": null,
+        "customfield_11245": null,
+        "customfield_11246": null,
+        "customfield_11247": null,
+        "customfield_11248": null,
+        "customfield_11249": null,
+        "customfield_11250": null,
+        "customfield_11251": null,
+        "customfield_11252": null,
+        "customfield_11253": null,
+        "customfield_11254": null,
+        "customfield_11255": "",
+        "customfield_11256": 0.0,
+        "customfield_11270": null,
+        "customfield_11271": null,
+        "customfield_11272": null,
+        "customfield_11274": null,
+        "customfield_11276": null,
+        "customfield_11277": null,
+        "customfield_11278": null,
+        "customfield_11279": null,
+        "customfield_11280": null,
+        "customfield_11281": null,
+        "customfield_11282": null,
+        "customfield_11283": null,
+        "customfield_11284": null,
+        "customfield_11285": null,
+        "customfield_11286": null,
+        "customfield_11288": null,
+        "customfield_11289": null,
+        "customfield_11290": null,
+        "customfield_11291": null,
+        "customfield_11292": null,
+        "customfield_11293": null,
+        "customfield_11294": null,
+        "customfield_11295": null,
+        "customfield_11296": null,
+        "customfield_11297": null,
+        "customfield_11298": null,
+        "customfield_11299": null,
+        "customfield_11300": null,
+        "customfield_11301": null,
+        "customfield_11305": null,
+        "customfield_11306": null,
+        "customfield_11307": null,
+        "customfield_11308": null,
+        "customfield_11309": {
+            "accountId": "557058:0f06124f-7f85-4590-8904-718c7b5dd63a",
+            "accountType": "atlassian",
+            "active": true,
+            "avatarUrls": {
+                "16x16": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/557058:0f06124f-7f85-4590-8904-718c7b5dd63a/710b41d0-ec69-44a8-ad6c-3f3c39b53b82/16",
+                "24x24": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/557058:0f06124f-7f85-4590-8904-718c7b5dd63a/710b41d0-ec69-44a8-ad6c-3f3c39b53b82/24",
+                "32x32": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/557058:0f06124f-7f85-4590-8904-718c7b5dd63a/710b41d0-ec69-44a8-ad6c-3f3c39b53b82/32",
+                "48x48": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/557058:0f06124f-7f85-4590-8904-718c7b5dd63a/710b41d0-ec69-44a8-ad6c-3f3c39b53b82/48"
+            },
+            "displayName": "Farzana Sedillo",
+            "emailAddress": "farzana.sedillo@us.ibm.com",
+            "self": "https://cloudidentity.atlassian.net/rest/api/3/user?accountId=557058%3A0f06124f-7f85-4590-8904-718c7b5dd63a",
+            "timeZone": "America/Chicago"
+        },
+        "customfield_11310": null,
+        "customfield_11312": null,
+        "customfield_11313": null,
+        "customfield_11314": null,
+        "customfield_11315": null,
+        "customfield_11316": null,
+        "customfield_11318": null,
+        "customfield_11319": null,
+        "customfield_11320": null,
+        "customfield_11321": null,
+        "customfield_11322": null,
+        "customfield_11323": null,
+        "customfield_11335": null,
+        "customfield_11338": {
+            "id": "11275",
+            "self": "https://cloudidentity.atlassian.net/rest/api/3/customFieldOption/11275",
+            "value": "No"
+        },
+        "customfield_11339": {
+            "id": "11278",
+            "self": "https://cloudidentity.atlassian.net/rest/api/3/customFieldOption/11278",
+            "value": "TBD"
+        },
+        "customfield_11343": null,
+        "customfield_11344": null,
+        "customfield_11345": null,
+        "customfield_11346": null,
+        "customfield_11347": null,
+        "customfield_11352": null,
+        "customfield_11353": null,
+        "customfield_11354": null,
+        "customfield_11367": null,
+        "customfield_11368": null,
+        "customfield_11369": null,
+        "customfield_11370": null,
+        "customfield_11371": null,
+        "customfield_11376": {
+            "content": [
+                {
+                    "attrs": {
+                        "level": 3
+                    },
+                    "content": [
+                        {
+                            "text": "Appscan",
+                            "type": "text"
+                        }
+                    ],
+                    "type": "heading"
+                },
+                {
+                    "attrs": {
+                        "isNumberColumnEnabled": false,
+                        "layout": "default"
+                    },
+                    "content": [
+                        {
+                            "content": [
+                                {
+                                    "attrs": {},
+                                    "content": [
+                                        {
+                                            "content": [
+                                                {
+                                                    "marks": [
+                                                        {
+                                                            "type": "strong"
+                                                        }
+                                                    ],
+                                                    "text": "Severity ",
+                                                    "type": "text"
+                                                }
+                                            ],
+                                            "type": "paragraph"
+                                        }
+                                    ],
+                                    "type": "tableHeader"
+                                },
+                                {
+                                    "attrs": {},
+                                    "content": [
+                                        {
+                                            "content": [
+                                                {
+                                                    "marks": [
+                                                        {
+                                                            "type": "strong"
+                                                        }
+                                                    ],
+                                                    "text": "Number",
+                                                    "type": "text"
+                                                }
+                                            ],
+                                            "type": "paragraph"
+                                        }
+                                    ],
+                                    "type": "tableHeader"
+                                }
+                            ],
+                            "type": "tableRow"
+                        },
+                        {
+                            "content": [
+                                {
+                                    "attrs": {},
+                                    "content": [
+                                        {
+                                            "content": [
+                                                {
+                                                    "text": "High ",
+                                                    "type": "text"
+                                                }
+                                            ],
+                                            "type": "paragraph"
+                                        }
+                                    ],
+                                    "type": "tableCell"
+                                },
+                                {
+                                    "attrs": {},
+                                    "content": [
+                                        {
+                                            "content": [],
+                                            "type": "paragraph"
+                                        }
+                                    ],
+                                    "type": "tableCell"
+                                }
+                            ],
+                            "type": "tableRow"
+                        },
+                        {
+                            "content": [
+                                {
+                                    "attrs": {},
+                                    "content": [
+                                        {
+                                            "content": [
+                                                {
+                                                    "text": "Medium ",
+                                                    "type": "text"
+                                                }
+                                            ],
+                                            "type": "paragraph"
+                                        }
+                                    ],
+                                    "type": "tableCell"
+                                },
+                                {
+                                    "attrs": {},
+                                    "content": [
+                                        {
+                                            "content": [],
+                                            "type": "paragraph"
+                                        }
+                                    ],
+                                    "type": "tableCell"
+                                }
+                            ],
+                            "type": "tableRow"
+                        },
+                        {
+                            "content": [
+                                {
+                                    "attrs": {},
+                                    "content": [
+                                        {
+                                            "content": [
+                                                {
+                                                    "text": "Low ",
+                                                    "type": "text"
+                                                }
+                                            ],
+                                            "type": "paragraph"
+                                        }
+                                    ],
+                                    "type": "tableCell"
+                                },
+                                {
+                                    "attrs": {},
+                                    "content": [
+                                        {
+                                            "content": [],
+                                            "type": "paragraph"
+                                        }
+                                    ],
+                                    "type": "tableCell"
+                                }
+                            ],
+                            "type": "tableRow"
+                        }
+                    ],
+                    "type": "table"
+                },
+                {
+                    "attrs": {
+                        "level": 3
+                    },
+                    "content": [
+                        {
+                            "text": "Twistlock",
+                            "type": "text"
+                        }
+                    ],
+                    "type": "heading"
+                },
+                {
+                    "attrs": {
+                        "level": 4
+                    },
+                    "content": [
+                        {
+                            "text": "(a) Fixed Issues",
+                            "type": "text"
+                        }
+                    ],
+                    "type": "heading"
+                },
+                {
+                    "attrs": {
+                        "level": 4
+                    },
+                    "content": [
+                        {
+                            "text": "(b) Outstanding Issues",
+                            "type": "text"
+                        }
+                    ],
+                    "type": "heading"
+                }
+            ],
+            "type": "doc",
+            "version": 1
+        },
+        "customfield_11383": null,
+        "customfield_11384": null,
+        "customfield_11385": null,
+        "customfield_11388": null,
+        "customfield_11389": null,
+        "customfield_11390": null,
+        "customfield_11392": null,
+        "customfield_11393": null,
+        "customfield_11394": null,
+        "customfield_11395": null,
+        "customfield_11396": null,
+        "customfield_11397": null,
+        "customfield_11398": null,
+        "customfield_11399": null,
+        "customfield_11400": null,
+        "customfield_11401": null,
+        "customfield_11402": null,
+        "customfield_11403": null,
+        "customfield_11404": null,
+        "customfield_11405": null,
+        "customfield_11406": null,
+        "customfield_11407": null,
+        "customfield_11408": null,
+        "customfield_11409": null,
+        "customfield_11410": null,
+        "customfield_11411": null,
+        "customfield_11412": null,
+        "customfield_11413": null,
+        "customfield_11414": null,
+        "customfield_11415": null,
+        "customfield_11416": null,
+        "customfield_11417": null,
+        "customfield_11418": null,
+        "customfield_11419": null,
+        "customfield_11420": null,
+        "customfield_11421": null,
+        "customfield_11422": null,
+        "customfield_11423": null,
+        "customfield_11424": null,
+        "customfield_11425": null,
+        "customfield_11426": null,
+        "customfield_11427": null,
+        "customfield_11428": null,
+        "customfield_11429": null,
+        "customfield_11430": null,
+        "customfield_11431": null,
+        "customfield_11432": null,
+        "customfield_12435": null,
+        "customfield_12439": null,
+        "customfield_12440": null,
+        "customfield_12441": null,
+        "description": {
+            "content": [
+                {
+                    "content": [
+                        {
+                            "text": "Issue  Created from Python",
+                            "type": "text"
+                        }
+                    ],
+                    "type": "paragraph"
+                }
+            ],
+            "type": "doc",
+            "version": 1
+        },
+        "duedate": "2023-02-26",
+        "environment": null,
+        "fixVersions": [],
+        "issuelinks": [],
+        "issuerestriction": {
+            "issuerestrictions": {},
+            "shouldDisplay": false
+        },
+        "issuetype": {
+            "avatarId": 10318,
+            "description": "A small, distinct piece of work.",
+            "hierarchyLevel": 0,
+            "iconUrl": "https://cloudidentity.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/10318?size=medium",
+            "id": "10101",
+            "name": "Task",
+            "self": "https://cloudidentity.atlassian.net/rest/api/3/issuetype/10101",
+            "subtask": false
+        },
+        "labels": [],
+        "lastViewed": "2023-02-17T03:43:03.572-0700",
+        "priority": {
+            "iconUrl": "https://cloudidentity.atlassian.net/images/icons/priorities/medium.svg",
+            "id": "3",
+            "name": "Medium",
+            "self": "https://cloudidentity.atlassian.net/rest/api/3/priority/3"
+        },
+        "progress": {
+            "progress": 0,
+            "total": 0
+        },
+        "project": {
+            "avatarUrls": {
+                "16x16": "https://cloudidentity.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10011?size=xsmall",
+                "24x24": "https://cloudidentity.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10011?size=small",
+                "32x32": "https://cloudidentity.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10011?size=medium",
+                "48x48": "https://cloudidentity.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10011"
+            },
+            "id": "11516",
+            "key": "CI",
+            "name": "Cloud Identity",
+            "projectCategory": {
+                "description": "This category is used for Cloud Identity(formerly Apollo) development projects",
+                "id": "10100",
+                "name": "Cloud Identity Development",
+                "self": "https://cloudidentity.atlassian.net/rest/api/3/projectCategory/10100"
+            },
+            "projectTypeKey": "software",
+            "self": "https://cloudidentity.atlassian.net/rest/api/3/project/11516",
+            "simplified": false
+        },
+        "reporter": {
+            "accountId": "63bba8ca0913ada386aa27d2",
+            "accountType": "atlassian",
+            "active": true,
+            "avatarUrls": {
+                "16x16": "https://secure.gravatar.com/avatar/910a78a0ffe0594a3fbe8b25b2402b71?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FA-1.png",
+                "24x24": "https://secure.gravatar.com/avatar/910a78a0ffe0594a3fbe8b25b2402b71?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FA-1.png",
+                "32x32": "https://secure.gravatar.com/avatar/910a78a0ffe0594a3fbe8b25b2402b71?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FA-1.png",
+                "48x48": "https://secure.gravatar.com/avatar/910a78a0ffe0594a3fbe8b25b2402b71?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FA-1.png"
+            },
+            "displayName": "Akash.Bhargav",
+            "emailAddress": "akash.bhargav@ibm.com",
+            "self": "https://cloudidentity.atlassian.net/rest/api/3/user?accountId=63bba8ca0913ada386aa27d2",
+            "timeZone": "America/Denver"
+        },
+        "resolution": null,
+        "resolutiondate": null,
+        "security": null,
+        "status": {
+            "description": "",
+            "iconUrl": "https://cloudidentity.atlassian.net/",
+            "id": "10000",
+            "name": "To Do",
+            "self": "https://cloudidentity.atlassian.net/rest/api/3/status/10000",
+            "statusCategory": {
+                "colorName": "blue-gray",
+                "id": 2,
+                "key": "new",
+                "name": "To Do",
+                "self": "https://cloudidentity.atlassian.net/rest/api/3/statuscategory/2"
+            }
+        },
+        "statuscategorychangedate": "2023-02-02T06:36:57.236-0700",
+        "subtasks": [],
+        "summary": "Task from Python 1",
+        "timeestimate": null,
+        "timeoriginalestimate": null,
+        "timespent": null,
+        "timetracking": {},
+        "updated": "2023-02-17T03:42:56.972-0700",
+        "versions": [],
+        "votes": {
+            "hasVoted": false,
+            "self": "https://cloudidentity.atlassian.net/rest/api/3/issue/CI-109689/votes",
+            "votes": 0
+        },
+        "watches": {
+            "isWatching": false,
+            "self": "https://cloudidentity.atlassian.net/rest/api/3/issue/CI-109689/watchers",
+            "watchCount": 0
+        },
+        "worklog": {
+            "maxResults": 20,
+            "startAt": 0,
+            "total": 0,
+            "worklogs": []
+        },
+        "workratio": -1
+    },
+    "id": "279190",
+    "key": "CI-109689",
+    "self": "https://cloudidentity.atlassian.net/rest/api/3/issue/279190"
+}
